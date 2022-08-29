@@ -44,6 +44,8 @@ I am a mobile developer. My main goal is to improve in Software Engineering, so 
 
 <h3>GitHub Statistics</h3>
 
+![GitHub Streak](https://github-readme-stats.vercel.app/api?username=adelnasyrov&show_icons=true&theme=merko)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adelnasyrov&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <!---
 adelnasyrov/adelnasyrov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
