@@ -1,5 +1,5 @@
 <h2>👋 Hi there, I’m Adel.</h2>
-I am a mobile developer. My main goal is to improve in Software Engineering, so that I become able to accomplish any user's preferences and make people happy when using my apps.
+I am software developer. My main goal is to improve in Software Engineering, so that I become able to accomplish any user's preferences and make people happy when using my apps.
 
 <h3>Tech Stack</h3>
 <p float="left">
